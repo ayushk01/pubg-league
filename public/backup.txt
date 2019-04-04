@@ -1,0 +1,130 @@
+<!--	<div class="boxrow">
+	<div class="box1">
+		<div class="head">
+			<img src="images/mainlogo.png" alt="">
+			<p>Solo - Match#3</p>
+		</div>
+		<div class="time"> Time : 28/02/2019 at 11.00 a.m</div>
+		<div class="body">
+			<div class="col">
+				<div class="row"><p>Win Price</p><b>5000</b></div>
+				<div class="row"><p>Type</p><b>Solo</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Per Kill</p><b>100</b></div>
+				<div class="row"><p>Version</p><b>TPP</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Entry Fee</p><b>0</b></div>
+				<div class="row"><p>Map</p><b>Erangel</b></div>
+			</div>
+		</div>
+	</div>
+	<div class="box1">
+		<div class="head">
+			<img src="images/mainlogo.png" alt="">
+			<p>Solo - Match#3</p>
+		</div>
+		<div class="time"> Time : 28/02/2019 at 11.00 a.m</div>
+		<div class="body">
+			<div class="col">
+				<div class="row"><p>Win Price</p><b>5000</b></div>
+				<div class="row"><p>Type</p><b>Solo</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Per Kill</p><b>100</b></div>
+				<div class="row"><p>Version</p><b>TPP</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Entry Fee</p><b>0</b></div>
+				<div class="row"><p>Map</p><b>Erangel</b></div>
+			</div>
+		</div>
+	</div>
+	<div class="box1">
+		<div class="head">
+			<img src="images/mainlogo.png" alt="">
+			<p> Solo - Match#3</p>
+		</div>
+		<div class="time"> Time : 28/02/2019 at 11.00 a.m</div>
+		<div class="body">
+			<div class="col">
+				<div class="row"><p>Win Price</p><b>5000</b></div>
+				<div class="row"><p>Type</p><b>Solo</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Per Kill</p><b>100</b></div>
+				<div class="row"><p>Version</p><b>TPP</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Entry Fee</p><b>0</b></div>
+				<div class="row"><p>Map</p><b>Erangel</b></div>
+			</div>
+		</div>
+	</div>
+	</div>
+		<div class="boxrow">
+	<div class="box1">
+		<div class="head">
+			<img src="images/mainlogo.png" alt="">
+			<p>Solo - Match#3</p>
+		</div>
+		<div class="time"> Time : 28/02/2019 at 11.00 a.m</div>
+		<div class="body">
+			<div class="col">
+				<div class="row"><p>Win Price</p><b>5000</b></div>
+				<div class="row"><p>Type</p><b>Solo</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Per Kill</p><b>100</b></div>
+				<div class="row"><p>Version</p><b>TPP</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Entry Fee</p><b>0</b></div>
+				<div class="row"><p>Map</p><b>Erangel</b></div>
+			</div>
+		</div>
+	</div>
+	<div class="box1">
+		<div class="head">
+			<img src="images/mainlogo.png" alt="">
+			<p>Solo - Match#3</p>
+		</div>
+		<div class="time"> Time : 28/02/2019 at 11.00 a.m</div>
+		<div class="body">
+			<div class="col">
+				<div class="row"><p>Win Price</p><b>5000</b></div>
+				<div class="row"><p>Type</p><b>Solo</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Per Kill</p><b>100</b></div>
+				<div class="row"><p>Version</p><b>TPP</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Entry Fee</p><b>0</b></div>
+				<div class="row"><p>Map</p><b>Erangel</b></div>
+			</div>
+		</div>
+	</div>
+	<div class="box1">
+		<div class="head">
+			<img src="images/mainlogo.png" alt="">
+			<p> Solo - Match#3</p>
+		</div>
+		<div class="time"> Time : 28/02/2019 at 11.00 a.m</div>
+		<div class="body">
+			<div class="col">
+				<div class="row"><p>Win Price</p><b>5000</b></div>
+				<div class="row"><p>Type</p><b>Solo</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Per Kill</p><b>100</b></div>
+				<div class="row"><p>Version</p><b>TPP</b></div>
+			</div>
+			<div class="col">
+				<div class="row"><p>Entry Fee</p><b>0</b></div>
+				<div class="row"><p>Map</p><b>Erangel</b></div>
+			</div>
+		</div>
+	</div>
+	</div>-->
